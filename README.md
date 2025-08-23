@@ -8,8 +8,6 @@ Currently working on machine learning and LLM-related projects. And some Python 
 
 Also, I like **Competitive Programming**. Here is my link about Competitive Programming:
 
-Interested in Competitive Programming! Check these if you want:
-
 - [My blog (cnblogs)](https://www.cnblogs.com/Tenshi).
 - [My Codeforces Account](https://codeforces.com/profile/Tenshi).
 - [My AtCoder Account](https://atcoder.jp/users/HinanawiTenshi).
