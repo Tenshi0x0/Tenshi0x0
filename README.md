@@ -1,4 +1,17 @@
-## Hi there 👋
+## Ciallo～(∠・ω<)⌒★, Tenshi there 👋
+
+<img style="width: 55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tenshi0x0&theme=dark&show_icons=true" />
+
+Currently working on machine learning and LLM-related projects.
+
+Also, I like algorithm competitions. Here is my link about Competitive Programming:
+
+Interested in Competitive Programming! Check these if you want:
+
+- [My blog (cnblogs)](https://www.cnblogs.com/Tenshi).
+- [My Codeforces Account](https://codeforces.com/profile/Tenshi).
+- [My AtCoder Account](https://atcoder.jp/users/HinanawiTenshi).
+- [My Luogu Account](https://www.luogu.com.cn/user/138960)
 
 <!--
 **Tenshi0x0/Tenshi0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
