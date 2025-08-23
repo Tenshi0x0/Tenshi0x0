@@ -2,9 +2,11 @@
 
 <img style="width: 55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tenshi0x0&theme=dark&show_icons=true" />
 
-Currently working on machine learning and LLM-related projects. And Python libraries related to AI will be released in the future.
+Currently working on machine learning and LLM-related projects. And some Python libraries related to AI will be released in the future (It will be posted on my GitHub or huggingface account).
 
-Also, I like algorithm competitions. Here is my link about Competitive Programming:
+- [My huggingface Account](https://huggingface.co/Tenshi0x0).
+
+Also, I like **Competitive Programming**. Here is my link about Competitive Programming:
 
 Interested in Competitive Programming! Check these if you want:
 
