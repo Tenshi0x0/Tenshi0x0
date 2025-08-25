@@ -6,12 +6,18 @@ Currently working on machine learning and LLM-related projects. And some Python 
 
 - [My huggingface Account](https://huggingface.co/Tenshi0x0).
 
+And you can visit my blogs:
+
+- [Github blog](https://tenshi0x0.github.io/)
+
+- [CS learning](https://tenshi0x0.github.io/CS-learning/).
+
 Also, I like **Competitive Programming**. Here is my link about Competitive Programming:
 
 - [My blog (cnblogs)](https://www.cnblogs.com/Tenshi).
 - [My Codeforces Account](https://codeforces.com/profile/Tenshi).
 - [My AtCoder Account](https://atcoder.jp/users/HinanawiTenshi).
-- [My Luogu Account](https://www.luogu.com.cn/user/138960)
+- [My Luogu Account](https://www.luogu.com.cn/user/138960).
 
 <!--
 **Tenshi0x0/Tenshi0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
