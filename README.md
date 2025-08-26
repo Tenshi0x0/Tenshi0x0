@@ -14,6 +14,7 @@ And you can visit my blogs:
 
 Also, I like **Competitive Programming**. Here is my link about Competitive Programming:
 
+- [Github blog (not all of it is related to algorithm competitions)](https://tenshi0x0.github.io/)
 - [My blog (cnblogs)](https://www.cnblogs.com/Tenshi).
 - [My Codeforces Account](https://codeforces.com/profile/Tenshi).
 - [My AtCoder Account](https://atcoder.jp/users/HinanawiTenshi).
