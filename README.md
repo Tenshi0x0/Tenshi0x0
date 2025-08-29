@@ -20,7 +20,7 @@ Also, I like **Competitive Programming**. Here is my link about Competitive Prog
 - [My AtCoder Account](https://atcoder.jp/users/HinanawiTenshi).
 - [My Luogu Account](https://www.luogu.com.cn/user/138960).
 
-<img src="./assets/ktn.gif" width="8%" alt="none">
+<img src="./assets/ktn.gif" width="12%" alt="none">
 
 <!--
 **Tenshi0x0/Tenshi0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
