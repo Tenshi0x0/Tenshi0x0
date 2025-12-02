@@ -1,6 +1,6 @@
 ## Ciallo～(∠・ω<)⌒★, Tenshi there 👋
 
-<img style="width: 55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tenshi0x0&theme=dark&show_icons=true" />
+<!-- <img style="width: 55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tenshi0x0&theme=dark&show_icons=true" /> -->
 
 Currently working on machine learning and LLM-related projects. And some Python libraries related to AI will be released in the future (It will be posted on my GitHub or huggingface account).
 
