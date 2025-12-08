@@ -2,6 +2,8 @@
 
 <!-- <img style="width: 55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tenshi0x0&theme=dark&show_icons=true" /> -->
 
+![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tenshi0x0&theme=react)
+
 Currently working on machine learning and LLM-related projects. And some Python libraries related to AI will be released in the future (It will be posted on my GitHub or huggingface account).
 
 - [My huggingface Account](https://huggingface.co/Tenshi0x0).
