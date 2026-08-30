@@ -1,6 +1,8 @@
 ## Ciallo～(∠・ω<)⌒★, Tenshi there 👋
 
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Tenshi0x0)](https://github.com/stats-organization/github-stats-extended)
+
 Currently working on machine learning and LLM-related projects. And some Python libraries related to AI will be released in the future (It will be posted on my GitHub or huggingface account).
 
 - [My huggingface Account](https://huggingface.co/Tenshi0x0).
