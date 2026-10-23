@@ -7,11 +7,11 @@ Currently working on machine learning and LLM-related projects. And some Python 
 
 - [My huggingface Account](https://huggingface.co/Tenshi0x0).
 
-And you can visit my blogs:
-
-- [Github blog](https://tenshi0x0.github.io/)
+And you can visit my blogs (wiki):
 
 - [CS learning](https://tenshi0x0.github.io/CS-learning/).
+
+-------------------------
 
 Also, I like **Competitive Programming**. Here is my link about Competitive Programming:
 
